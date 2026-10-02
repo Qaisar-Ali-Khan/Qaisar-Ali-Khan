@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Qaisar Ali Khan 
 
-<!--
-**Qaisar-Ali-Khan/Qaisar-Ali-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student from Pakistan, building my way to a Cloud & DevOps engineer role.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Linux (WSL2)
+- AWS (EC2, S3, CloudFormation)
+- Python + boto3
+- Terraform, Docker, Kubernetes (up next)
+- CI/CD and automation (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **aws-labs**: hands-on labs from my AWS course
+
+## Find me
+- LinkedIn: https://www.linkedin.com/in/qaisar-ali-60513a440?utm_source=share_via&utm_content=profile&utm_medium=member_android
