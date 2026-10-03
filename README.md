@@ -11,7 +11,6 @@ CS student from Pakistan, building my way to a Cloud & DevOps engineer role.
 
 ## Projects
 - **aws-labs**: hands-on labs from my AWS course
-- ( Merlin.JPG )
-
+- 
 ## Find me
 - LinkedIn: https://www.linkedin.com/in/qaisar-ali-60513a440?utm_source=share_via&utm_content=profile&utm_medium=member_android
